@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NABD42
-- 👀 I’m interested in School 42, Web Dev, AI Learning, Cloud Engineer.
+- 👀 I’m interested in School 42, Web Dev, AI Learning, Cloud Engineering.
 - 🌱 I’m currently learning Basics of Programmation.
 - 💞️ I’m looking to collaborate on a lot of projects related with the Cloud.
 - 📫 Reach me by my Github.
