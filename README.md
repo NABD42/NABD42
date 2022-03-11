@@ -18,4 +18,4 @@ I've been learning from my birth and I will stop at my death
                       href="http://www.github.com/NABD42"><img src="https://github-readme-stats.vercel.app/api?username=NABD42&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="NABD42's GitHub stats" /></a>
                       <br></br>
                       <b>Support</b><br><a
-                  href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/Nabd42"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+                  href="https://www.buymeacoffee.com/Nabd42"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
