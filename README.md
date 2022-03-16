@@ -6,7 +6,7 @@ Learner
 
 I've been learning from my birth and I will stop at my death
 
-*   🌍  I'm based in Based in Dénia, Spain
+*   🌍  I'm based in Based in Spain
 *   🖥️  See my portfolio at [Nabd Portfolio](http://portfolionabd42.netlify.app/#)
 *   ✉️  You can contact me at [cp667ekip@gmail.com](mailto:cp667ekip@gmail.com)
 *   🧠  I'm learning HTML, CSS & Javascript
